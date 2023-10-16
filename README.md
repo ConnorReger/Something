@@ -14,25 +14,24 @@ If you would like to contribute follow the steps below. <br>
  3. Make edits in the "LabCode.ipynb" file <br>   
  4. Open a new terminal in Jupyter hub or whatever command line goes with your software <br>   
  5. Open the file with the repository, and use the following commands <br>  
-     ```
+     
      1. git add (*insert file name*) <br>  
-     ```
         - This will add your file updates to the repository so you can commit them <br> 
-     ```
+     
      2. git commit -m "(*insert message here*)" <br>  
-     ```
+     
         - This command saves the changes you make with a written message about what changes are being made <br>   
-     ```
+     
      3. git push <br>   
-     ```
+     
         - This command will push your changes to the main repository. It will then be checked by our staff and approved or disapproved. If the contents of your change are unsuitable, you may be banned. For information on licencing or regulations on moderation, see the Code of Conduct or Licence documents. We chose the (We chose the MIT license because we are not looking to profit off of the program and this way students could access and edit the program easily for academic purposes. (found at https://choosealicense.com/licenses/mit/)) <br>   
-     ```
+     
      4. git pull <br>   
-     ```
+     
         - Finally, this command will update your repository with any new changes made. <br>   
-     ```
+     
      5. Have fun! make changes as you please and help contribute to our community! <br>   
-     ```
+     
 ***
 
 Group members:
